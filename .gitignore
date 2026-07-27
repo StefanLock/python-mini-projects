@@ -1,0 +1,57 @@
+# ==========================================
+# Byte-compiled / Optimized / DLL files
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# PyInstaller & Packaging Artifacts
+# ==========================================
+# PyInstaller output directories
+build/
+dist/
+# PyInstaller generated files (uncomment if you don't want to track your .spec file)
+# *.spec
+
+# Packaging build folders
+*.egg-info/
+.eggs/
+*.egg
+
+# ==========================================
+# Testing & Coverage (Pytest, Coverage.py)
+# ==========================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# ==========================================
+# Environment variables & Secrets
+# ==========================================
+.env
+.env.local
+.env.*.local
+
+# ==========================================
+# IDEs, Editors & OS Files
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
