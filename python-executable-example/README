@@ -1,0 +1,5 @@
+# Getting started.
+## Build
+`pyinstaller --onefile .\main.py`
+
+Find the exe in the `dist` directory.
